@@ -1,16 +1,39 @@
-# doctor_appointment_booking
+# GetADoc
 
-A new Flutter project.
+## Tech Stack
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-## Getting Started
+## Installation Guide to run the app on localhost
 
-This project is a starting point for a Flutter application.
+### Requirements 
+- Flutter
+- Android Emulator or a real android device with USB Debugging on, should be connected
 
-A few resources to get you started if this is your first Flutter project:
+### Steps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/theVatsal3802/Ekam-GetADoc.git
+```
+
+Enter in cloned the directory
+
+```bash
+  cd doctor_appointment_booking
+```
+
+Fetch all the dependencies
+```bash
+  flutter pub get
+```
+
+To launch the app in the connected device
+```bash
+  flutter run
+```
+
+## Feedback or Support
+
+For any feedback or support, email on vatsaladhiya248@gmail.com
